@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Nov 01 21:27:19 2017
+# Process ID: 2416
+# Current directory: C:/Users/Owner/Desktop/460M/Labs/Lab5/Snake
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1308 C:\Users\Owner\Desktop\460M\Labs\Lab5\Snake\Snake.xpr
+# Log file: C:/Users/Owner/Desktop/460M/Labs/Lab5/Snake/vivado.log
+# Journal file: C:/Users/Owner/Desktop/460M/Labs/Lab5/Snake\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Owner/Desktop/460M/Labs/Lab5/Snake/Snake.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
